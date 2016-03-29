@@ -1,0 +1,2 @@
+When i use the eclipse with hadoop,there is a problem is "java.lang.classNotFoundException:org/apache/commons.logging.LogFactory"
+And i don't know yet.
